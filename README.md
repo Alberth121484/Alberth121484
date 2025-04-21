@@ -1,9 +1,9 @@
-# ¡Hola! 👋 Soy [Juan Alberto García]
+# ¡Hola! 👋 Soy Juan Alberto García
 
-🚀 **Desarrollador(a) [Frontend/Backend/Full Stack]**  
-📍 Ubicación: [Cuautitlán, México]  
-📧 Contacto: [alberto121484@gmail.com]  
-💼 Portfolio: [tu-portfolio.com] (opcional)  
+🚀 **Desarrollador Frontend/Backend/Full Stack**  
+📍 Ubicación: Cuautitlán, México  
+📧 Contacto: alberto121484@gmail.com  
+💼 Portfolio: tu-portfolio.com (opcional)  
 
 ## 🔥 Sobre mí
 - 🔭 Actualmente trabajo en **[Proyecto Actual]**  
