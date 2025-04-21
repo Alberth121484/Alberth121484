@@ -3,7 +3,7 @@
 🚀 **Desarrollador Frontend/Backend/Full Stack**  
 📍 Ubicación: Cuautitlán, México  
 📧 Contacto: alberto121484@gmail.com  
-💼 Portfolio: tu-portfolio.com (opcional)  
+💼 Portfolio: https://github.com/Alberth121484
 
 ## 🔥 Sobre mí
 - 🔭 Actualmente trabajo como Programador Web Backend en NodeJs**  
@@ -34,35 +34,35 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,hibernate,nodejs,fastapi,express,nginx,vite,redis"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=dotnet,cs,js,nodejs,ts,express,redis,yarn,npm,graphql"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,mui,bootstrap,html,css,sass,js,ts,figma,angular,storybook"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,vuetify,react,bootstrap,html,css,sass,js,ts,figma,angular"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,sqlite,supabase"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,jenkins,githubactions,gitlarun"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,pytest,phpunit"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jest"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,bitbucke"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,webstorm,sublime"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,sublime"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash,notion,postman"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
@@ -75,7 +75,6 @@
 21/04/2025
 
 ## 📫 ¿Cómo contactarme?
-- LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-- Twitter: [@tu-usuario](https://twitter.com/tu-usuario)  
+- correo: alberto121484@gmail.com  
 
 ⭐ **¡Gracias por visitar mi perfil!**  
