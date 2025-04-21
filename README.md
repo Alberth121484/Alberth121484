@@ -1,29 +1,69 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+<!DOCTYPE html>
+<html lang="en">
 
-🚀 **Desarrollador(a) [Frontend/Backend/Full Stack/Data Scientist/etc.]**  
-📍 Ubicación: [Ciudad, País]  
-📧 Contacto: [tu-email@ejemplo.com]  
-💼 Portfolio: [tu-portfolio.com] (opcional)  
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+  <meta name="description" content="Awesome GitHub Profile Readme Templates" />
+  <title>Awesome GitHub Profile Readme Templates</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
 
-## 🔥 Sobre mí
-- 🔭 Actualmente trabajo en **[Proyecto Actual]**  
-- 🌱 Aprendiendo **Tecnología/Lenguaje**  
-- 👯 Busco colaborar en **Proyectos de Open Source**  
-- ⚡ Dato curioso: **¡Me encanta [hobby interesante]!**  
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/style.min.css"
+    type="text/css">
 
-## 🛠 Tecnologías y Herramientas
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-<!-- Añade más badges en https://shields.io/ -->
+  <!-- docsify-themeable styles-->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="light">
+  <link rel="stylesheet alternative" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+    title="dark">
 
-## 📊 Estadísticas de GitHub
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)](https://github.com/tu-usuario)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)](https://github.com/tu-usuario)
+  <style>
+    .sidebar-nav li>a[href^="/"]:not([href*="?id="]),
+    .sidebar-nav li>a[href^="/"]:not([href*="?id="])~ul a,
+    .sidebar-nav li>a[href^="#/"]:not([href*="?id="]),
+    .sidebar-nav li>a[href^="#/"]:not([href*="?id="])~ul a {
+      padding: 0;
+    }
 
-## 📫 ¿Cómo contactarme?
-- LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-- Twitter: [@tu-usuario](https://twitter.com/tu-usuario)  
+    .sidebar-nav li.collapse>a[href^="/"]:not([href*="?id="]):not(:only-child),
+    .sidebar-nav li.collapse>a[href^="#/"]:not([href*="?id="]):not(:only-child),
+    .sidebar-nav li.active>a[href^="/"]:not([href*="?id="]):not(:only-child),
+    .sidebar-nav li.active>a[href^="#/"]:not([href*="?id="]):not(:only-child) {
+      background: transparent;
+    }
+  </style>
+</head>
 
-⭐ **¡Gracias por visitar mi perfil!**  
+<body>
+  <div id="app">Please wait...</div>
+
+  <script>
+    window.$docsify = {
+      search: [
+        '/_sidebar',
+      ],
+
+      name: 'Awesome Github Profile Readme Templates',
+      basePath: "https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/",
+      loadSidebar: true,
+      auto2top: true,
+      sidebarDisplayLevel: 1,
+    }
+  </script>
+
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js"
+    type="text/javascript">
+    </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"
+    type="text/javascript">
+    </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
+
+</html>
