@@ -34,7 +34,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=dotnet,cs,js,nodejs,ts,express,redis,yarn,npm,graphql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=dotnet,cs,js,nodejs,ts,express,redis,yarn,npm,graphql,ai"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
