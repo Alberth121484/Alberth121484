@@ -34,7 +34,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=dotnet,cs,js,nodejs,ts,express,redis,yarn,npm,graphql,ai"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=dotnet,cs,js,nodejs,ts,express,redis,yarn,npm,graphql,py"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
