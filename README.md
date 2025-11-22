@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Juan Alberto García
 
-🚀 **Desarrollador Frontend/Backend/Full Stack**  
+🚀 **Desarrollador Desarrollador Full Stack | Especialista en IA**  
 📍 Ubicación: Cuautitlán, México  
 📧 Contacto: alberto121484@gmail.com  
 💼 Portfolio: https://github.com/Alberth121484
